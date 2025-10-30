@@ -9,3 +9,7 @@ Add new test case
 ## Update
 
 Update tests
+
+## Update
+
+Update .gitignore

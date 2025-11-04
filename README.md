@@ -17,3 +17,7 @@ Update .gitignore
 ## Update
 
 Update error codes
+
+## Update
+
+Add retry logic

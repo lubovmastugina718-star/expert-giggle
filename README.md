@@ -29,3 +29,7 @@ Update README with examples
 ## Update
 
 Add comments
+
+## Update
+
+Update API documentation

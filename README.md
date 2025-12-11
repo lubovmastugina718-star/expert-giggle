@@ -41,3 +41,7 @@ Fix edge case
 ## Update
 
 Improve performance
+
+## Update
+
+Fix race condition

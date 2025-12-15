@@ -45,3 +45,7 @@ Improve performance
 ## Update
 
 Fix race condition
+
+## Update
+
+Update dependencies

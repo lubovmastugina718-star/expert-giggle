@@ -49,3 +49,7 @@ Fix race condition
 ## Update
 
 Update dependencies
+
+## Update
+
+Update error codes

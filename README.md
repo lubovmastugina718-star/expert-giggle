@@ -57,3 +57,7 @@ Update error codes
 ## Update
 
 Fix formatting
+
+## Update
+
+Fix race condition

@@ -3,3 +3,5 @@ export default function main() {
 }
 
 # Fix memory allocation
+
+# Add logging

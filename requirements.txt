@@ -1,3 +1,5 @@
 # Update build script
 
 # Update package.json
+
+# Update dependencies version
